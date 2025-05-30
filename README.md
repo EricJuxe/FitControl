@@ -20,7 +20,7 @@
 
         Usuario: rogelio.limon@itoaxaca.edu.mx
 
-        Contraseña: $2a$10$ZfDqarEE8z89M.hjra6xLuNdnk7wPnYLoWrndvFdm.c3yRedFLNq2
+        Contraseña: 1234
 
     Explorar la aplicación
     Una vez dentro, puedes navegar y explorar la interfaz libremente.
